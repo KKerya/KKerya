@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 ### CODEWARS:
 ![codewars](https://www.codewars.com/users/KKerya1/badges/large)
+
+###
+![LeetCode Stats](https://leetcard.jacoblin.cool/lollicry?theme=dark&font=Mina&ext=activity)
