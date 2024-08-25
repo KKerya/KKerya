@@ -7,13 +7,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ### Codewars:
-<a href="https://www.codewars.com/users/KKerya1" target="_blank" rel="noreferrer"> <img src="https://github.r2v.ch/codewars?user=KKerya1&stroke=%23BB432C"> </a>
+<a href="https://www.codewars.com/users/KKerya1" target="_blank" rel="noreferrer"> <img src="https://github.r2v.ch/codewars?user=KKerya1&stroke=%23BB432C"></a>
 
 
 ### Leetcode:
-<a href="https://leetcode.com/u/lollicry/"> <img src="https://leetcard.jacoblin.cool/lollicry?theme=dark&font=Mina&ext=activity"> </a>
+<a href="https://leetcode.com/u/lollicry/"> <img src="https://leetcard.jacoblin.cool/lollicry?theme=dark&font=Mina&ext=activity"></a>
 
 
 ### You can contact me at: 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/alwwnsleep"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 
