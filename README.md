@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Kirill. I live and study in Samara, at Samara National Research University, in the direction of “Informatics and Computer Science”, 1st year. I study backend and mobile development
 
 ### I use technology:
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
