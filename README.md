@@ -1,11 +1,20 @@
-## Hi there 👋
-My name is Kirill. I live and study in Samara, at Samara National Research University, in the direction of “Informatics and Computer Science”, 1st year. I study backend and mobile development
+## About me
+<li style="font-size: 20px;">Name: <b> Kirill </b> </li>
+<li style="font-size: 20px;">Place of study: <b> Samara National Research University </b> </li>
+<li style="font-size: 20px;">Country: <b> Russian Federation </b> </li>
+<li style="font-size: 20px;">City: <b> Samara </b> </li>
+<li style="font-size: 20px;">Direction: <b> Informatics and Computer Science </b> </li>
+<li style="font-size: 20px;">Year of study: <b> 1st </b> </li>
 
-### I use technology:
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+## 🛠️ Technologies
+<li style="font-size: 20px;">C#</li>
+<li style="font-size: 20px;">Python</li>
+<li style="font-size: 20px;">HTML/ss</li>
+
+## 💻 Im learning 
+<li style="font-size: 20px;">English#</li>
+<li style="font-size: 20px;">Kotlin</li>
+<li style="font-size: 20px;">Java/ss</li>
 
 ### Codewars:
 <a href="https://www.codewars.com/users/KKerya1" target="_blank" rel="noreferrer"> <img src="https://github.r2v.ch/codewars?user=KKerya1&stroke=%23BB432C"></a>
