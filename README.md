@@ -9,12 +9,16 @@
 ## 🛠️ Technologies
 <li style="font-size: 20px;">C#</li>
 <li style="font-size: 20px;">Python</li>
-<li style="font-size: 20px;">HTML/ss</li>
+<li style="font-size: 20px;">HTML/CSS</li>
 
 ## 💻 Im learning 
 <li style="font-size: 20px;">English#</li>
 <li style="font-size: 20px;">Kotlin</li>
-<li style="font-size: 20px;">Java/ss</li>
+<li style="font-size: 20px;">Java</li>
+
+## 💚 My Interests
+- 📱 **Mobile Development**
+- 🖥️ **Backend Development**
 
 ### Codewars:
 <a href="https://www.codewars.com/users/KKerya1" target="_blank" rel="noreferrer"> <img src="https://github.r2v.ch/codewars?user=KKerya1&stroke=%23BB432C"></a>
