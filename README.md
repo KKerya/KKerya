@@ -12,7 +12,7 @@
 <li style="font-size: 20px;">HTML/CSS</li>
 
 ## 💻 Im learning 
-<li style="font-size: 20px;">English#</li>
+<li style="font-size: 20px;">English</li>
 <li style="font-size: 20px;">Kotlin</li>
 <li style="font-size: 20px;">Java</li>
 
