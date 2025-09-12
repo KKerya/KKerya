@@ -15,7 +15,6 @@
 <li style="font-size: 20px;">English</li>
 
 ## 💚 My Interests
-- 📱 **Mobile Development**
 - 🖥️ **Backend Development**
 
 ### Codewars:
