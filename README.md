@@ -4,7 +4,7 @@
 <li style="font-size: 20px;">Country: <b> Russian Federation </b> </li>
 <li style="font-size: 20px;">City: <b> Samara </b> </li>
 <li style="font-size: 20px;">Direction: <b> Informatics and Computer Science </b> </li>
-<li style="font-size: 20px;">Year of study: <b> 1st </b> </li>
+<li style="font-size: 20px;">Year of study: <b> 2nd </b> </li>
 
 ## 🛠️ Technologies
 <li style="font-size: 20px;">C#</li>
