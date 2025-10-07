@@ -28,10 +28,3 @@
 
 ### You can contact me at: 
 <a href="https://t.me/alwwnsleep"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
-
-<style>
-    li {
-        font-size: 20px;
-    }
-</style>
-
