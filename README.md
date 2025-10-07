@@ -2,7 +2,7 @@
 <li>Name: <b> Kirill </b> </li>
 <li>Place of study: <b> Samara National Research University </b> </li>
 <li>Country: <b> Russian Federation </b> </li>
-<li">City: <b> Samara </b> </li>
+<li>City: <b> Samara </b> </li>
 <li>Direction: <b> Informatics and Computer Science </b> </li>
 <li>Year of study: <b> 2nd </b> </li>
 
