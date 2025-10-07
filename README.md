@@ -1,18 +1,19 @@
 ## About me
-<li style="font-size: 20px;">Name: <b> Kirill </b> </li>
-<li style="font-size: 20px;">Place of study: <b> Samara National Research University </b> </li>
-<li style="font-size: 20px;">Country: <b> Russian Federation </b> </li>
-<li style="font-size: 20px;">City: <b> Samara </b> </li>
-<li style="font-size: 20px;">Direction: <b> Informatics and Computer Science </b> </li>
-<li style="font-size: 20px;">Year of study: <b> 2nd </b> </li>
+<li>Name: <b> Kirill </b> </li>
+<li>Place of study: <b> Samara National Research University </b> </li>
+<li>Country: <b> Russian Federation </b> </li>
+<li">City: <b> Samara </b> </li>
+<li>Direction: <b> Informatics and Computer Science </b> </li>
+<li>Year of study: <b> 2nd </b> </li>
 
 ## 🛠️ Technologies
-<li style="font-size: 20px;">C#</li>
-<li style="font-size: 20px;">Python</li>
-<li style="font-size: 20px;">HTML/CSS</li>
+<li>C#</li>
+<li>Python</li>
+<li>Java</li>
+<li>HTML/CSS</li>
 
 ## 💻 Im learning 
-<li style="font-size: 20px;">English</li>
+<li>English</li>
 
 ## 💚 My Interests
 - 🖥️ **Backend Development**
@@ -27,4 +28,10 @@
 
 ### You can contact me at: 
 <a href="https://t.me/alwwnsleep"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+
+<style>
+    li {
+        font-size: 20px;
+    }
+</style>
 
