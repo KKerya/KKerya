@@ -7,10 +7,10 @@
 <li>Year of study: <b> 2nd </b> </li>
 
 ## 🛠️ Technologies
-<li>C#</li>
+<li>Java/Spring/</li>
 <li>Python</li>
-<li>Java</li>
-<li>HTML/CSS</li>
+<li>C#/.NET</li>
+<li>HTML/CSS/JS</li>
 
 ## 💻 Im learning 
 <li>English</li>
