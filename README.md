@@ -22,9 +22,5 @@
 <a href="https://www.codewars.com/users/KKerya1" target="_blank" rel="noreferrer"> <img src="https://github.r2v.ch/codewars?user=KKerya1&stroke=%23BB432C"></a>
 
 
-### Leetcode:
-<a href="https://leetcode.com/u/lollicry/"> <img src="https://leetcard.jacoblin.cool/lollicry?theme=dark&font=Mina&ext=activity"></a>
-
-
 ### You can contact me at: 
 <a href="https://t.me/alwwnsleep"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
