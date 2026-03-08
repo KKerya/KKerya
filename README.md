@@ -4,7 +4,7 @@
 <li>Country: <b> Russian Federation </b> </li>
 <li>City: <b> Samara </b> </li>
 <li>Direction: <b> Informatics and Computer Science </b> </li>
-<li>Year of study: <b> 2nd </b> </li>
+<li>Year of study: <b> 3nd </b> </li>
 
 ## 🛠️ Technologies
 <li>Java/Spring/</li>
